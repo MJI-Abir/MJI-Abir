@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MJI-Abir.
-- 👀 I’m interested in C++, Python and web development.
-- 🌱 I’m currently learning Web development.
+- 👀 I’m interested in C++, Java, Python and web development.
+- 🌱 I’m currently trying to improve my problem solving skills.
 - 📫 How to reach me? - You can email me on mjiabir12007@gmail.com
 
 <!---
