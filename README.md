@@ -23,4 +23,4 @@ Skills: C / C++ / Java / Python / Dart / Flutter
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MJI-Abir)  
 
-![Profile views](https://gpvc.arturio.dev/MJI-Abir)  
+![Profile views](https://komarev.com/ghpvc/?username=MJI-Abir)
