@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jawad Abir
 #### Software Developer
-![Software Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/261463449_941634636761084_2012754559550565413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeG17aX5vb3fiDjDgJH46vsF_sdxL1r4Egr-x3EvWvgSCjWV2WYBsM-SUH9zMe7OiwrGwAOq49a04svsVadncaZl&_nc_ohc=NYhbbJPMs74AX8CMYBa&_nc_ht=scontent.fdac31-1.fna&oh=00_AfDttV76iJoN1Nb2pZbHJRy-peRMhdk0DFXnoZYViO4gug&oe=64D063CA)
+![Software Developer]
 
 I am currently a CS Undergrad at University of Dhaka
 
@@ -11,7 +11,14 @@ Skills: C / C++ / Java / Python / Dart / Flutter
 - 📫 How to reach me: mjiabir12007@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MJI-Abir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jawad-abir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mji.abir.940)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__mji_abir__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbirMji)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abirmji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abirmji" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jawad-abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawad-abir" height="30" width="40" /></a>
+<a href="https://fb.com/mji.abir.940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mji.abir.940" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mjiabir12007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mjiabir12007" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mjiabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mjiabir" height="30" width="40" /></a>
+</p> 
 
 ![Profile views](https://komarev.com/ghpvc/?username=MJI-Abir&color=ff69b4)
 
