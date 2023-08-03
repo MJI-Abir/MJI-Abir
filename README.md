@@ -21,8 +21,6 @@ Skills: C / C++ / Java / Python / Dart / Flutter
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MJI-Abir)  
 
-![GitHub metrics](https://metrics.lecoq.io/MJI-Abir)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MJI-Abir)  
 
 ![Profile views](https://gpvc.arturio.dev/MJI-Abir)  
