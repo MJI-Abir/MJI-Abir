@@ -5,7 +5,7 @@ I am currently a CS Undergrad at University of Dhaka
 
 Skills: C / C++ / Java / Python / Dart / Flutter
 
-- 🔭 I’m currently working on **Amicsoft** 
+- 🔭 I’m currently working at **Amicsoft** 
 - 🌱 I’m currently learning **Flutter and Django** 
 - 📫 How to reach me: mjiabir12007@gmail.com 
 
