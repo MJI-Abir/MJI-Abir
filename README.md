@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jawad Abir
 #### Software Developer
 
-I am currently a CS Undergrad at University of Dhaka
+CS Undergrad at University of Dhaka
 
 Skills: C / C++ / Java / Python / Dart / Flutter
 
