@@ -7,7 +7,7 @@ Skills: C / C++ / Java / Python / Dart / Flutter
 
 - 🔭 Former Software Intern at **Amicsoft** 
 - 🌱 I'm an experienced **Flutter** developer and I’m currently learning **Django** 
-- 📫 How to reach me: mjiabir12007@gmail.com 
+- 📫 How to reach me: iamjawadabir@gmail.com 
 
 
 <h3 align="left">Connect with me:</h3>
